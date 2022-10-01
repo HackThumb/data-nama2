@@ -2,3 +2,4 @@
 - dora
 - lupa
 - ez
+- tolak ini
